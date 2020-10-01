@@ -1,0 +1,5 @@
+package importar vendas valida:
+* o parâmetro 4058.
+
+* Conforme visto na rotina 132 o parâmetro 1185 estava definido como primeira forma(1), porém no parâmetros por filial 2273  não havia nenhuma opção marcada. 
+  Após escolher a opção: Definição na rotina 132(1), o percentual de comissão voltou a ser preenchido.
